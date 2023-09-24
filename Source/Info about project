@@ -1,0 +1,11 @@
+One of my first projects in unreal engine 5 using c++.
+Things that i accomplished to do are these(code):
+  1. Third-person movement
+  2. Melee combat
+      2.1 Combo attack
+      2.2 Lock on system
+      2.3 Shield - blocking enemy attacks
+      2.4 Dodge
+      2.5 Parry
+      2.6 Assassination
+  3. Basic Inventory
